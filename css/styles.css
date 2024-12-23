@@ -20,3 +20,20 @@ body {
     padding: 25px;
 }
 
+.calc-text {
+    margin-bottom: 20px;
+    padding-left: 5px;
+}
+
+.calc-text p {
+    color: #fff;
+    width: 100px;
+    font-size: 3.5rem;
+    text-align: end;
+    border: none;
+    background-color: transparent;
+    outline: none;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+
